@@ -3,6 +3,8 @@ $teste = [];
 $teste1 = 123;
 $teste3 = 2345;
 
+$teste = "master";
+
 $arr = array('um', 'dois', 'três', 'quatro', 'pare', 'cinco');
 foreach ($arr as $val) {
     if ($val == 'três') {
