@@ -1,7 +1,6 @@
 <?php
 $teste = [];
 $teste1 = 123;
-$teste3 = 2345;
 
 $teste = "master";
 
