@@ -1,7 +1,7 @@
 <?php
 $teste = [];
 $teste1 = 123;
-
+$teste2 = 456;
 $teste = "master";
 
 $arr = array('um', 'dois', 'três', 'quatro', 'pare', 'cinco');
