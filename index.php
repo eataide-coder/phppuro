@@ -1,4 +1,5 @@
 <?php
+$teste = [];
 
 $arr = array('um', 'dois', 'três', 'quatro', 'pare', 'cinco');
 foreach ($arr as $val) {
