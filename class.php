@@ -6,4 +6,9 @@ class Teste
     {
         echo "Classe Teste instanciada!";
     }
+
+    public function getIndex()
+    {
+        return("teste");
+    }
 }
