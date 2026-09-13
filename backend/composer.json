@@ -1,0 +1,15 @@
+{
+    "name": "eduardo/backend",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduardo Ataide",
+            "email": "eataide.ti@outlook.com"
+        }
+    ],
+    "require": {}
+}
